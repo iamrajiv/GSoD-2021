@@ -1,7 +1,7 @@
 <div align="center">
-<img src="assets/gsod-2021-1.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-1.svg" height="auto" width="400" />
 <br />
-<img src="assets/gsod-2021-2.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-2.svg" height="auto" width="400" />
 <br />
 <h1>Wechaty</h1>
 <h3>
@@ -49,6 +49,7 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 - Adding issue and pull request templates for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repositories.
 - Adding `CONTRIBUTING.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
 
 ### Week 6 (June 22 - June 28, 2021)
 
@@ -70,5 +71,5 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 ### Week 9 (July 12 - July 18, 2021)
 
 - Finalizing the project deliverables and refactor the code, if any, based on the feedback.
-- Making the project reports.
-- Finalizing and submitting the project reports.
+- Making the project report.
+- Finalizing and submitting the project report.

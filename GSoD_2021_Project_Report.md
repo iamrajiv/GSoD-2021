@@ -1,7 +1,7 @@
 <div align="center">
-<img src="assets/gsod-2021-1.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-1.svg" height="auto" width="400" />
 <br />
-<img src="assets/gsod-2021-2.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-2.svg" height="auto" width="400" />
 <br />
 <h1>Wechaty</h1>
 <h3>
@@ -19,7 +19,7 @@ This is the project report for **Improve the gRPC and OpenAPI ecosystem** which 
 
 I am very glad that I had the opportunity to take part in the Google Season of Docs program project. Participating in this program has helped me to:
 
-- Got involved with an amazing community i.e. Wechaty.
+- Got involved with an amazing Wechaty community.
 - Got to know about Robotic Process Automation (RPA) SDK for Chatbot Makers.
 - Learned about Docusaurus, JavaScript XML(JSX), and Progressive web apps (PWAs).
 - Got a deeper understanding of Go, gRPC and Swagger UI, etc.

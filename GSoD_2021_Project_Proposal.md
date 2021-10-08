@@ -1,7 +1,7 @@
 <div align="center">
-<img src="assets/gsod-2021-1.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-1.svg" height="auto" width="400" />
 <br />
-<img src="assets/gsod-2021-2.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-2.svg" height="auto" width="400" />
 <br />
 <h1>Wechaty</h1>
 <h3>
@@ -15,13 +15,9 @@ Project Proposal
 
 I considered myself a Polymath. I believe in rigorous and intuitive learning. Spend the majority of the time exploring different types of algorithms and contributing to open source. My interest lies in the fields of Algorithms, Computational Science, and Distributed Computing.
 
-I have completed GSoD '20 with [gRPC-Gateway](https://grpc-ecosystem.github.io/grpc-gateway/), where my work was on Refactoring the Existing Docs Site of gRPC-Gateway.
+I have completed Google Season of Docs 2020 with [gRPC-Gateway](https://grpc-ecosystem.github.io/grpc-gateway/), and my project was on **Refactoring the Existing Docs Site of gRPC-Gateway** of gRPC-Gateway.
 
-My Google Season of Docs '20 work summary can be found in this repository [https://github.com/iamrajiv/GSoD-2020](https://github.com/iamrajiv/GSoD-2020).
-
-## Project Proposal Video Presentation
-
-{% include iframe.html src="https://youtu.be/bSnKbzZYDco" %}
+My Google Season of Docs 2020 work summary can be found in this repository [https://github.com/iamrajiv/GSoD-2020](https://github.com/iamrajiv/GSoD-2020).
 
 ## Introduction
 
@@ -37,7 +33,7 @@ However, the Wechaty user documentation for gRPC and OpenAPI is currently outdat
 
 - Improving [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentation in [Wechaty docs website](https://wechaty.js.org/docs/):
 
-  - Adding more details in the Getting Started section.
+  - Improving Wechaty OpenAPI docs.
   - Adding a blog about both gRPC and OpenAPI.
   - Updating the History section and fetching all contents of the `CHANGELOG.md` file from [wechaty/openapi](https://github.com/wechaty/openapi) repository using a script.
   - Adding learning resources section.
@@ -48,6 +44,7 @@ However, the Wechaty user documentation for gRPC and OpenAPI is currently outdat
   - Removing the `HISTORY` section part from README for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
   - Adding issue and pull request templates for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repositories.
   - Adding `CONTRIBUTING.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+  - Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
   - Adding and organizing learning resources section about third parties library and frameworks like gRPC, gRPC-Gateway, and Protocol Buffers, etc in both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
   - Creating logo for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) repository.
   - Refactoring and breaking the READMEs for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository into sub-section like Usage, Installation, Contributing, and Resources, etc.

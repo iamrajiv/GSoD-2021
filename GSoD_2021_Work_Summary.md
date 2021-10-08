@@ -1,7 +1,7 @@
 <div align="center">
-<img src="assets/gsod-2021-1.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-1.svg" height="auto" width="400" />
 <br />
-<img src="assets/gsod-2021-2.svg" height= "auto" width="400" />
+<img src="assets/gsod-2021-2.svg" height="auto" width="400" />
 <br />
 <h1>Wechaty</h1>
 <h3>
@@ -30,7 +30,7 @@ Work Summary
 In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentation in [Wechaty docs website](https://wechaty.js.org/docs/):
 
 - [x] [#889](https://github.com/wechaty/wechaty.js.org/pull/889): Adding Open Graph image metadata in the Docusaurus site of [wechaty.js.org](https://wechaty.js.org/).
-- [x] [#917](https://github.com/wechaty/wechaty.js.org/pull/917): Adding more details in the Getting Started section.
+- [x] [#917](https://github.com/wechaty/wechaty.js.org/pull/917): Improving Wechaty OpenAPI docs.
 - [x] [#929](https://github.com/wechaty/wechaty.js.org/pull/929): Adding a blog about both gRPC and OpenAPI.
 
 ### Week 3 (June 1 - June 7, 2021)
@@ -42,27 +42,28 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 ### Week 4 (June 8 - June 14, 2021)
 
-- [x] [#135](https://github.com/wechaty/grpc/pull/135) and [#11](https://github.com/wechaty/openapi/pull/11): Generating and adding `CHANGELOG.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
-- [x] [#141](https://github.com/wechaty/grpc/pull/141) and [#18](https://github.com/wechaty/openapi/pull/18): Removing the `HISTORY` section part from README for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [wechaty/grpc#135](https://github.com/wechaty/grpc/pull/135) and [wechaty/openapi#11](https://github.com/wechaty/openapi/pull/11): Generating and adding `CHANGELOG.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [wechaty/grpc#141](https://github.com/wechaty/grpc/pull/141) and [wechaty/openapi#18](https://github.com/wechaty/openapi/pull/18): Removing the `HISTORY` section part from README for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
 
 ### Week 5 (June 15 - June 21, 2021)
 
-- [x] [#139](https://github.com/wechaty/grpc/pull/139) and [#14](https://github.com/wechaty/openapi/pull/14): Adding issue and pull request templates for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repositories.
-- [x] [#140](https://github.com/wechaty/grpc/pull/140) and [#16](https://github.com/wechaty/openapi/pull/16): Adding `CONTRIBUTING.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [wechaty/grpc#139](https://github.com/wechaty/grpc/pull/139) and [wechaty/openapi#14](https://github.com/wechaty/openapi/pull/14): Adding issue and pull request templates for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repositories.
+- [x] [wechaty/grpc#140](https://github.com/wechaty/grpc/pull/140) and [wechaty/openapi#16](https://github.com/wechaty/openapi/pull/16): Adding `CONTRIBUTING.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [#1276](https://github.com/wechaty/wechaty.js.org/pull/1276) Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
 
 ### Week 6 (June 22 - June 28, 2021)
 
-- [x] [#13](https://github.com/wechaty/openapi/pull/13): Adding Swagger UI to Express Route by default in [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [wechaty/openapi#13](https://github.com/wechaty/openapi/pull/13): Adding Swagger UI to Express Route by default in [wechaty/openapi](https://github.com/wechaty/openapi) repository.
 
 ### Week 7 (June 29 - July 4, 2021)
 
-- [x] [#141](https://github.com/wechaty/grpc/pull/141) and [#18](https://github.com/wechaty/openapi/pull/18): Adding and organizing learning resources section about third parties library and frameworks like gRPC, gRPC-Gateway, and Protocol Buffers, etc in both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
-- [x] [#141](https://github.com/wechaty/grpc/pull/141) and [#18](https://github.com/wechaty/openapi/pull/18): Creating logo for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) repository.
+- [x] [wechaty/grpc#141](https://github.com/wechaty/grpc/pull/141) and [wechaty/openapi#18](https://github.com/wechaty/openapi/pull/18): Adding and organizing learning resources section about third parties library and frameworks like gRPC, gRPC-Gateway, and Protocol Buffers, etc in both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [wechaty/grpc#141](https://github.com/wechaty/grpc/pull/141) and [wechaty/openapi#18](https://github.com/wechaty/openapi/pull/18): Creating logo for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) repository.
 
 ### Week 8 (July 5 - July 11, 2021)
 
-- [x] [#141](https://github.com/wechaty/grpc/pull/141) and [#18](https://github.com/wechaty/openapi/pull/18): Refactoring and breaking the READMEs for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository into sub-section like Usage, Installation, Contributing, and Resources, etc.
-- [x] [#142](https://github.com/wechaty/grpc/pull/142) and [#19](https://github.com/wechaty/openapi/pull/19): Format files that are necessary using [Prettier](https://prettier.io) for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
+- [x] [wechaty/grpc#141](https://github.com/wechaty/grpc/pull/141) and [wechaty/openapi#18](https://github.com/wechaty/openapi/pull/18): Refactoring and breaking the READMEs for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository into sub-section like Usage, Installation, Contributing, and Resources, etc.
+- [x] [wechaty/grpc#142](https://github.com/wechaty/grpc/pull/142) and [wechaty/openapi#19](https://github.com/wechaty/openapi/pull/19): Format files that are necessary using [Prettier](https://prettier.io) for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
 - [x] Checking and fixing indentations, grammatical errors, typographical errors, and broken links across all the files, including previous and new documentations.
 
 ## Project Finalization Phase
@@ -70,8 +71,8 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 ### Week 9 (July 12 - July 18, 2021)
 
 - [ ] Finalizing the project deliverables and refactor the code, if any, based on the feedback.
-- [ ] Making the project reports.
-- [ ] Finalizing and submitting the project reports.
+- [ ] Making the project report.
+- [ ] Finalizing and submitting the project report.
 
 ---
 
