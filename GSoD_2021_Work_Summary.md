@@ -14,7 +14,7 @@ Work Summary
 ### Community Bonding (May 8 - May 17, 2021)
 
 - [x] Zoom meeting schedule agreed.
-- [x] Focus in the first two weeks before the start of the project will be on working through existing documentation and note gaps areas.
+- [x] Focus in the first two weeks before the start of the project will be on working through existing documentation and noting gaps areas.
 
 ## Doc Development Phase
 
@@ -49,7 +49,7 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 - [x] [wechaty/grpc#139](https://github.com/wechaty/grpc/pull/139) and [wechaty/openapi#14](https://github.com/wechaty/openapi/pull/14): Adding issue and pull request templates for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repositories.
 - [x] [wechaty/grpc#140](https://github.com/wechaty/grpc/pull/140) and [wechaty/openapi#16](https://github.com/wechaty/openapi/pull/16): Adding `CONTRIBUTING.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
-- [x] [#1276](https://github.com/wechaty/wechaty.js.org/pull/1276) Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
+- [x] [#1276](https://github.com/wechaty/wechaty.js.org/pull/1276): Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
 
 ### Week 6 (June 22 - June 28, 2021)
 
@@ -70,9 +70,9 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 ### Week 9 (July 12 - July 18, 2021)
 
-- [ ] Finalizing the project deliverables and refactor the code, if any, based on the feedback.
-- [ ] Making the project report.
-- [ ] Finalizing and submitting the project report.
+- [x] Finalizing the project deliverables and refactoring the code, if any, based on the feedback.
+- [x] Making the project report.
+- [x] [#1383](https://github.com/wechaty/wechaty.js.org/pull/1383): Finalizing and submitting the project report.
 
 ---
 

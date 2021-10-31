@@ -14,7 +14,7 @@ Project Timeline
 ### Community Bonding (May 8 - May 17, 2021)
 
 - Zoom meeting schedule agreed.
-- Focus in the first two weeks before the start of the project will be on working through existing documentation and note gaps areas.
+- Focus in the first two weeks before the start of the project will be on working through existing documentation and noting gaps areas.
 
 ## Doc Development Phase
 
@@ -70,6 +70,6 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 ### Week 9 (July 12 - July 18, 2021)
 
-- Finalizing the project deliverables and refactor the code, if any, based on the feedback.
+- Finalizing the project deliverables and refactoring the code, if any, based on the feedback.
 - Making the project report.
 - Finalizing and submitting the project report.

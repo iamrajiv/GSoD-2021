@@ -15,10 +15,6 @@ Project Proposal
 
 I considered myself a Polymath. I believe in rigorous and intuitive learning. Spend the majority of the time exploring different types of algorithms and contributing to open source. My interest lies in the fields of Algorithms, Computational Science, and Distributed Computing.
 
-I have completed Google Season of Docs 2020 with [gRPC-Gateway](https://grpc-ecosystem.github.io/grpc-gateway/), and my project was on **Refactoring the Existing Docs Site of gRPC-Gateway** of gRPC-Gateway.
-
-My Google Season of Docs 2020 work summary can be found in this repository [https://github.com/iamrajiv/GSoD-2020](https://github.com/iamrajiv/GSoD-2020).
-
 ## Introduction
 
 This is the project proposal for **Improve the gRPC and OpenAPI ecosystem** on which I will be working as a part of Google Season of Docs 2021. I have proposed my timeline to complete this work during a span of **9 weeks**.
