@@ -9,7 +9,7 @@ Improve the gRPC and OpenAPI ecosystem
 </h3>
 <a href="https://github.com/iamrajiv/GSoD-2021/network/members"><img src="https://img.shields.io/github/forks/iamrajiv/GSoD-2021?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 <a href="https://github.com/iamrajiv/GSoD-2021/stargazers"><img src="https://img.shields.io/github/stars/iamrajiv/GSoD-2021?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
-<a href="https://github.com/iamrajiv/GSoD-2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/GSoD-2021?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
+<a href="https://github.com/iamrajiv/GSoD-2021/blob/main/LICENSE"><img src="https://img.shields.io/github/license/iamrajiv/GSoD-2021?color=0969da&style=for-the-badge" height="auto" width="auto" /></a>
 </div>
 
 ## About
@@ -36,4 +36,4 @@ This repository contains details about my work in Google Season of Docs 2021. I 
 
 ## License
 
-[MIT](https://github.com/iamrajiv/GSoD-2021/blob/master/LICENSE)
+[MIT](https://github.com/iamrajiv/GSoD-2021/blob/main/LICENSE)
