@@ -29,8 +29,12 @@ This repository contains details about my work in Google Season of Docs 2021. I 
 - [GSoD 2021 proposal to Improve the gRPC and OpenAPI ecosystem Blog](https://wechaty.js.org/2021/05/18/gsod-2021-proposal-to-improve-the-grpc-and-openapi-ecosystem/)
 - [GSoD 2021 report on Improve the gRPC and OpenAPI ecosystem Blog](https://wechaty.js.org/2021/10/30/gsod-2021-report-on-improve-the-grpc-and-openapi-ecosystem/)
 - [Improve the gRPC and OpenAPI ecosystem Issue link](https://github.com/wechaty/wechaty.js.org/issues/1012)
+- [Wechaty accepted project proposal](https://wechaty.js.org/docs/gsod/2021/)
+- [Wechaty budget](https://wechaty.js.org/docs/gsod/2021/#budget)
+- [Wechaty case study](https://docs.google.com/document/d/1FWcWF7hgYG8T84a20pxWAI8exZbOx74rkovY5IQjSWo/edit)
 - [Wechaty Community Meeting Notes](https://docs.google.com/document/d/1fVCk8qRYc4RKGMf2UY5HOe07hEhPUOpGC34v88GEFJg/edit#)
 - [wechaty/openapi](https://github.com/wechaty/openapi)
+- [Wechaty Season of Docs page](https://wechaty.js.org/docs/gsod/2021/)
 - [wechaty/wechaty-grpc](https://github.com/wechaty/grpc)
 - [wechaty/wechaty.js.org](https://github.com/wechaty/wechaty.js.org)
 
