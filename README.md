@@ -26,6 +26,7 @@ This repository contains details about my work in Google Season of Docs 2021. I 
 
 ## References
 
+- [Google Season of Docs 2021 Blog](https://iamrajiv.github.io/posts/google-season-of-docs-2021/)
 - [GSoD 2021 proposal to Improve the gRPC and OpenAPI ecosystem Blog](https://wechaty.js.org/2021/05/18/gsod-2021-proposal-to-improve-the-grpc-and-openapi-ecosystem/)
 - [GSoD 2021 report on Improve the gRPC and OpenAPI ecosystem Blog](https://wechaty.js.org/2021/10/30/gsod-2021-report-on-improve-the-grpc-and-openapi-ecosystem/)
 - [Improve the gRPC and OpenAPI ecosystem Issue link](https://github.com/wechaty/wechaty.js.org/issues/1012)
