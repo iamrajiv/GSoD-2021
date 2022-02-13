@@ -34,7 +34,7 @@ This repository contains details about my work in Google Season of Docs 2021. I 
 - [Wechaty accepted project proposal](https://wechaty.js.org/docs/gsod/2021/)
 - [Wechaty budget](https://wechaty.js.org/docs/gsod/2021/#budget)
 - [Wechaty case study](https://docs.google.com/document/d/13V0sUUwQrJbE-pyKEwdi3JnaqY-oZRhbLW8VcaQIdiE/edit)
-- [Wechaty Community Meeting Notes](https://docs.google.com/document/d/1fVCk8qRYc4RKGMf2UY5HOe07hEhPUOpGC34v88GEFJg/edit#)
+- [Wechaty Community Meeting Notes](https://docs.google.com/document/d/13V0sUUwQrJbE-pyKEwdi3JnaqY-oZRhbLW8VcaQIdiE/edit)
 - [wechaty/openapi](https://github.com/wechaty/openapi)
 - [Wechaty Season of Docs page](https://wechaty.js.org/docs/gsod/2021/)
 - [wechaty/wechaty-grpc](https://github.com/wechaty/grpc)
