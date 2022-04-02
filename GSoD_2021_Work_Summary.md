@@ -22,23 +22,23 @@ Work Summary
 
 - [x] Getting familiar with Wechaty projects.
 - [x] Going through all the existing contents and documentation based on gRPC and OpenAPI.
-- [x] [#910](https://github.com/wechaty/wechaty.js.org/pull/910): Adding Progressive Web Application support for the Docusaurus site.
-- [x] [#1014](https://github.com/wechaty/wechaty.js.org/pull/1014): Adding Progressive Web Application support for the Jekyll blog.
+- [x] [#910](https://github.com/wechaty/docusaurus/pull/910): Adding Progressive Web Application support for the Docusaurus site.
+- [x] [#1014](https://github.com/wechaty/docusaurus/pull/1014): Adding Progressive Web Application support for the Jekyll blog.
 
 ### Week 2 (May 25 - May 31, 2021)
 
 In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentation in [Wechaty docs website](https://wechaty.js.org/docs/):
 
-- [x] [#889](https://github.com/wechaty/wechaty.js.org/pull/889): Adding Open Graph image metadata in the Docusaurus site of [wechaty.js.org](https://wechaty.js.org/).
-- [x] [#917](https://github.com/wechaty/wechaty.js.org/pull/917): Improving Wechaty OpenAPI docs.
-- [x] [#929](https://github.com/wechaty/wechaty.js.org/pull/929): Adding a blog about both gRPC and OpenAPI.
+- [x] [#889](https://github.com/wechaty/docusaurus/pull/889): Adding Open Graph image metadata in the Docusaurus site of [wechaty.js.org](https://wechaty.js.org/).
+- [x] [#917](https://github.com/wechaty/docusaurus/pull/917): Improving Wechaty OpenAPI docs.
+- [x] [#929](https://github.com/wechaty/docusaurus/pull/929): Adding a blog about both gRPC and OpenAPI.
 
 ### Week 3 (June 1 - June 7, 2021)
 
 In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentation in [Wechaty docs website](https://wechaty.js.org/docs/):
 
-- [x] [#924](https://github.com/wechaty/wechaty.js.org/pull/924): Updating the History section and fetching all contents of the `CHANGELOG.md` file from [wechaty/openapi](https://github.com/wechaty/openapi) repository using a script.
-- [x] [#956](https://github.com/wechaty/wechaty.js.org/pull/956): Adding learning resources section.
+- [x] [#924](https://github.com/wechaty/docusaurus/pull/924): Updating the History section and fetching all contents of the `CHANGELOG.md` file from [wechaty/openapi](https://github.com/wechaty/openapi) repository using a script.
+- [x] [#956](https://github.com/wechaty/docusaurus/pull/956): Adding learning resources section.
 
 ### Week 4 (June 8 - June 14, 2021)
 
@@ -49,7 +49,7 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 - [x] [wechaty/grpc#139](https://github.com/wechaty/grpc/pull/139) and [wechaty/openapi#14](https://github.com/wechaty/openapi/pull/14): Adding issue and pull request templates for [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repositories.
 - [x] [wechaty/grpc#140](https://github.com/wechaty/grpc/pull/140) and [wechaty/openapi#16](https://github.com/wechaty/openapi/pull/16): Adding `CONTRIBUTING.md` file for both [wechaty/wechaty-grpc](https://github.com/wechaty/grpc) and [wechaty/openapi](https://github.com/wechaty/openapi) repository.
-- [x] [#1276](https://github.com/wechaty/wechaty.js.org/pull/1276): Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
+- [x] [#1276](https://github.com/wechaty/docusaurus/pull/1276): Improving contributing guidelines of [wechaty.js.org](https://wechaty.js.org/).
 
 ### Week 6 (June 22 - June 28, 2021)
 
@@ -72,14 +72,14 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 
 - [x] Finalizing the project deliverables and refactoring the code, if any, based on the feedback.
 - [x] Making the project report.
-- [x] [#1383](https://github.com/wechaty/wechaty.js.org/pull/1383): Finalizing and submitting the project report.
+- [x] [#1383](https://github.com/wechaty/docusaurus/pull/1383): Finalizing and submitting the project report.
 
 ---
 
 ## Extra Work
 
 - [[GSoD 2021] Fixed typo in message.proto](https://github.com/wechaty/grpc/pull/133)
-- [[GSoD 2021] Fixed favicon in Jekyll blog](https://github.com/wechaty/wechaty.js.org/pull/880)
-- [[GSoD 2021] Wrapped the string literals in a JSX container](https://github.com/wechaty/wechaty.js.org/pull/1008)
-- [[GSoD 2021] Removed the console expression](https://github.com/wechaty/wechaty.js.org/pull/1010)
-- [[GSoD 2021] Converted all Jekyll blog contributors images to webp](https://github.com/wechaty/wechaty.js.org/pull/1072)
+- [[GSoD 2021] Fixed favicon in Jekyll blog](https://github.com/wechaty/docusaurus/pull/880)
+- [[GSoD 2021] Wrapped the string literals in a JSX container](https://github.com/wechaty/docusaurus/pull/1008)
+- [[GSoD 2021] Removed the console expression](https://github.com/wechaty/docusaurus/pull/1010)
+- [[GSoD 2021] Converted all Jekyll blog contributors images to webp](https://github.com/wechaty/docusaurus/pull/1072)
