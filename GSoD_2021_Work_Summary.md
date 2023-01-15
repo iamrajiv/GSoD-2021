@@ -74,8 +74,6 @@ In [Polyglot/OpenAPI](http://wechaty.js.org/docs/polyglot/openapi/) documentatio
 - [x] Making the project report.
 - [x] [#1383](https://github.com/wechaty/docusaurus/pull/1383): Finalizing and submitting the project report.
 
----
-
 ## Extra Work
 
 - [[GSoD 2021] Fixed typo in message.proto](https://github.com/wechaty/grpc/pull/133)
