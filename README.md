@@ -14,7 +14,7 @@ Improve the gRPC and OpenAPI ecosystem
 
 ## About
 
-This repository contains details about my work in Google Season of Docs 2021. I participated with Wechaty, and my project was on **Improve the gRPC and OpenAPI ecosystem** of Wechaty.
+This repository contains information about my work in the Google Season of Docs 2021. I participated with Wechaty, and my project was on Improve the gRPC and OpenAPI ecosystem of Wechaty.
 
 ## Table Of Contents
 
